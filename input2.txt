@@ -1,0 +1,9 @@
+if ( a == 0 ) then
+if ( f == var ) then
+b = ( 9 + 99 ) + ( 55 * 2 ) + 7 ;
+else
+b = 37 ;
+endif
+else
+b = 12 ;
+endif
